@@ -2,6 +2,8 @@
 
 This course was designed as part of my visiting scholar program at the Universidad Católica Boliviana "San Pablo" teaching at ePC. The course focuses on cleaning, visualizing, and interacting with geospatial data using R.
 
+![Course Screenshot](map.png)
+
 ## Course Outline
 
 ### 1: Introduction to Interacting with APIs
