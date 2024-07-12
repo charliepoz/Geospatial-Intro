@@ -19,6 +19,9 @@ p_load( tidyverse,
         janitor)
 
 
+### Introduction: ###
+
+
 #### Map 1: Using the World Bank API ####
 
 # WDI LINK: https://databank.worldbank.org/source/world-development-indicators
@@ -67,7 +70,6 @@ data <- data %>%
     by = c("iso_a3" = "iso3c")
   ) %>%
   filter(iso_a3 != "ATA")
-
 
 #### MAP 2: Sub-national Map of Bolivia ####
   
