@@ -2,6 +2,10 @@
 
 The course focuses on cleaning, visualizing, and interacting with geospatial data using R. It was delivered in July 2024 as part of my visiting scholar position at the ePC business school in the the Universidad Católica Boliviana "San Pablo". 
 
+If you want to create the interactive map using `mapdeck`, please remember to [sign up for a Mapbox account here]([https://account.mapbox.com/auth/signup/?route-to=%22https%3A%2F%2Faccount.mapbox.com%2F%22]).
+
+Once you have that, you can copy and paste your account's standard API token into the R environment when you get to part 3 of the class. 
+
 ![Course Screenshot](map.png)
 
 ## Course Outline
