@@ -1,22 +1,22 @@
 # Geospatial Data Analysis and Visualization Course
 
-This course was designed as part of my visiting scholar program at the Universidad Católica Boliviana "San Pablo" teaching at ePC. The course focuses on cleaning, visualizing, and interacting with geospatial data using R.
+The course focuses on cleaning, visualizing, and interacting with geospatial data using R. It was delivered in July 2024 as part of my visiting scholar position at the ePC business school in the the Universidad Católica Boliviana "San Pablo". 
 
 ![Course Screenshot](map.png)
 
 ## Course Outline
 
-### 1: Introduction to Interacting with APIs
+### Part 1: Introduction to Interacting with APIs
 - **Objective**: Learn how to make API calls and visualize geospatial data using R.
 - **Tools**: `sf`, `raster`, `dplyr`, `RNaturalEarth`, `ggplot2`
 - **Outcome**: A basic visualization of a World Bank API call.
 
-### 2: Cleaning and Visualization Difficult Subnational Government Data
+### Part 2: Cleaning and Visualization Difficult Subnational Government Data
 - **Objective**: Understand techniques to clean, merge, and visualize subnational data
 - **Tools**: `ggplot2`, `sf`, `dplyr`, `janitor`, 
 - **Outcome**: A subnational map of Bolivia showing a selected literacy indicator.
 
-### Session 3: Reshape Awkard Data to Build an Interactive Maps with `mapdeck`
+### Part 3: Reshape Awkard Data to Build an Interactive Maps with `mapdeck`
 - **Objective**: Reshape data to design interactive maps using the `mapdeck` package.
 - **Tools**: `mapdeck`, `dplyr`
 - **Outcome**: An arc map showing migration flows within Bolivia.
